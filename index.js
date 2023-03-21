@@ -8,3 +8,7 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+// https://moc6backend.onrender.com/
+
+// https://moc6backend.onrender.com/users
